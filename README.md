@@ -8,6 +8,10 @@ The purpose of the analysis was to identify and visualize how different campaign
 ## Analysis and Challenges
 The analysis was performed using the kickstarter dataset.  To identify how different campaigns fared in relation to their launch date, a pivot table was created and the "Parent_Category" was filtered to only show "Theater".  To identify how different campaigns fared in relation to their fundings goals, the count_ifs formula in excel was used.  There were no challenges in performing the analysis but in the future, potential challenges might arise if formulas were incorrectly applied.
 
+![png](README_images/Graph_1.PNG)
+
+![png](README_images/Graph_2.PNG)
+
 ## Results
 
 ### Analysis of Outcomes Based on Launch Date
